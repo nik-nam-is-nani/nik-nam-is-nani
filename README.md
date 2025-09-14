@@ -3,7 +3,8 @@
 💻 Backend Developer (Java) | 🤖 AI & Machine Learning Enthusiast (Python) | 🚀 3rd-Year Engineering Student  
 </h3>
 <p align="left">
-<img  alt="image" src="https://github.com/user-attachments/assets/7b6abd10-534e-4417-abd3-c828af7e0e00" /></p>
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/6a761ef2-51e5-4f13-acbf-bf3810f674af" />
+</p>
 
 
 <p align="center">
