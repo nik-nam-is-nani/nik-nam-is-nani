@@ -2,6 +2,8 @@
 <h3 align="center">
 💻 Backend Developer (Java) | 🤖 AI & Machine Learning Enthusiast (Python) | 🚀 3rd-Year Engineering Student  
 </h3>
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/7b6abd10-534e-4417-abd3-c828af7e0e00" />
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nik-nam-is-nani&label=Profile%20views&color=0e75b6&style=flat" alt="nik-nam-is-nani" />
