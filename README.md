@@ -22,6 +22,12 @@
 - Love turning **small ideas into working projects** that solve real-world problems 🚀  
 - Always curious, always learning, always coding ⚡  
 
+
+
+
+
+
+
 ---
 
 ### 📂 My Work  
