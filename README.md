@@ -8,11 +8,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nik-nam-is-nani&label=Profile%20views&color=0e75b6&style=flat" alt="nik-nam-is-nani" />
 </p>
-<p align="right">
-<img width="480" height="480" alt="image" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2NyaHc4cDEweWRwazBjbGoydnlwdXlpMXlqeG54ZXE3aHpwODJwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ML15sUZFNyMy0Yv55m/giphy.gif" />
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/ML15sUZFNyMy0Yv55m/giphy.gif">
 
-
-</p>
 ---
 
 ### 👨‍💻 About Me  
