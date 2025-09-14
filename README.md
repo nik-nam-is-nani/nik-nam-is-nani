@@ -13,9 +13,10 @@
 
 
 ---
+<img align="right" alt="Coding" width="300"  src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bXJ3MzN3cGZpZms0ZnFycWZ2eGU2ZG1ieThuaW03cG1uN2Jib3FyNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QXwtfadqo7wbfmT46H/giphy.gif">-
 
 ### 👨‍💻 About Me  
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bXJ3MzN3cGZpZms0ZnFycWZ2eGU2ZG1ieThuaW03cG1uN2Jib3FyNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QXwtfadqo7wbfmT46H/giphy.gif">
+
 
 - Passionate about **building backend systems in Java** and **exploring AI/ML with Python** 💡  
 - Currently learning **Spring Boot APIs, Deep Learning models, and full-stack integration** 📚  
