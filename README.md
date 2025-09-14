@@ -2,7 +2,7 @@
 <h3 align="center">
 💻 Backend Developer (Java) | 🤖 AI & Machine Learning Enthusiast (Python) | 🚀 3rd-Year Engineering Student  
 </h3>
-<img align="right" alt="Coding" width="400" src="[https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif]">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 
 
