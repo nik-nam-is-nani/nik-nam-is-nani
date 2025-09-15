@@ -53,6 +53,10 @@
 </p>
 
 ---
+### ⚒️ Languages & Tools  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nik-nam-is-nani/nik-nam-is-nani/main/scrolling-tech.gif" alt="scrolling skills" />
+</p>
 
 ### ⚒️ Languages & Tools  
 <p align="center">
