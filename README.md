@@ -53,21 +53,12 @@
 </p>
 
 ---
-### ⚒️ Languages & Tools  
-<p align="center">
-  <img src="assets/scroll-skills.gif" alt="Scrolling Skills" />
-</p>
 
 ### ⚒️ Languages & Tools  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nik-nam-is-nani/nik-nam-is-nani/main/scrolling-tech.gif" alt="scrolling skills" />
-</p>
 
-### ⚒️ Languages & Tools  
-<p align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="6">
-    <img src="https://skillicons.dev/icons?i=java,python,html,css,js,react,nodejs,spring,mysql,oracle,git,github,linux,vscode,postman" />
-  </marquee>
+<img src="https://skillicons.dev/icons?i=java,python,html,css,js,react,nodejs,spring,mysql,oracle,git,github,linux,vscode,postman" />
+
 </p>
 
 ---
