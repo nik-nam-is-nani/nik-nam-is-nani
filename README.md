@@ -69,8 +69,22 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>  
 </p>
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,react,nodejs,spring,mysql,oracle,git,github,linux,vscode,postman" />
+</p>
 
 ---
+### 📈 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nik-nam-is-nani&theme=react-dark" />
+</p>
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nik-nam-is-nani&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+</p>
+
 
 ### 📊 GitHub Stats  
 <p align="center">
