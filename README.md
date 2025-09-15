@@ -1,11 +1,9 @@
+
+
 <h1 align="center">Hi 👋, I'm NIKSHITH</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=0EB4F7&width=700&lines=Skilled+Full+Stack+Developer;Open+Source+Contributor;Google+Cloud+Arcade+Facilitator;Frontend+Animator;Computer+Science+Undergrad" alt="Typing SVG" />
-</h3>
-
-<h3 align="center">
-  💻 Backend Developer (Java) | 🤖 AI & Machine Learning Enthusiast (Python) | 🚀 3rd-Year Engineering Student  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=0EB4F7&width=700&lines=Full+Stack+Developer;Backend+Developer+(Java);AI+%26+Machine+Learning+Enthusiast;Frontend+Animator;Problem+Solver;Computer+Science+Undergrad" alt="Typing SVG" />
 </h3>
 
 
