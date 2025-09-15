@@ -11,8 +11,9 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nik-nam-is-nani&label=Profile%20views&color=0e75b6&style=flat" alt="nik-nam-is-nani" />
+  <img src="https://komarev.com/ghpvc/?username=nik-nam-is-nani&label=Visitors&color=brightgreen&style=for-the-badge" />
 </p>
+
 
 
 ---
