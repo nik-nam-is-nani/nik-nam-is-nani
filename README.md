@@ -71,8 +71,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nik-nam-is-nani&" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nik-nam-is-nani" alt="GitHub Streak" />
 </p>
+
 ## 🐍 Contribution Snake
 <p align="center">
   <picture>
