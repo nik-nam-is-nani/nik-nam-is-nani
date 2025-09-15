@@ -33,6 +33,10 @@
 
 
 ---
+### 💡 Dev Quote  
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
 
 ### 📂 My Work  
 - 🌐 Portfolio → [Click Here](https://nikshith-po.netlify.app/)  
