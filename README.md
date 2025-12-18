@@ -28,7 +28,8 @@
   - Computer Vision (OpenCV)
   - Autonomous driving simulations using **CARLA**
 - 🔗 Enjoy building **end-to-end systems** — from backend APIs to frontend integration
-- 🚗 Currently working on **AI-based car simulation projects**, combining:
+- 🚗 Currently working on **AI-based car simulation projects**,
+- combining:
   - Neural Networks
   - Sensor data (camera, LiDAR concepts)
   - Rule-based logic + ML hybrid approaches
