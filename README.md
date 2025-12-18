@@ -21,11 +21,20 @@
 
 ### 👨‍💻 About Me  
 
+- 🎓 **Computer Science Undergraduate (2nd Year)** with strong interest in **Backend Engineering & Intelligent Systems**
+- 💻 Primarily focused on **Java backend development** (Core Java, JDBC, Oracle DB, Spring Boot)
+- 🤖 Actively exploring **AI & Machine Learning with Python**, including:
+  - Deep Learning models (CNNs)
+  - Computer Vision (OpenCV)
+  - Autonomous driving simulations using **CARLA**
+- 🔗 Enjoy building **end-to-end systems** — from backend APIs to frontend integration
+- 🚗 Currently working on **AI-based car simulation projects**, combining:
+  - Neural Networks
+  - Sensor data (camera, LiDAR concepts)
+  - Rule-based logic + ML hybrid approaches
+- 🧠 Strong believer in **learning by building**, not just tutorials
+- ⚡ Passionate about writing **clean, scalable, and production-ready code**
 
-- Passionate about **building backend systems in Java** and **exploring AI/ML with Python** 💡  
-- Currently learning **Spring Boot APIs, Deep Learning models, and full-stack integration** 📚  
-- Love turning **small ideas into working projects** that solve real-world problems 🚀  
-- Always curious, always learning, always coding ⚡  
 
 
 
@@ -33,6 +42,13 @@
 
 
 
+---
+### 🚀 Current Focus  
+
+- Building **Java + Spring Boot backend systems**
+- Developing **AI-driven simulations** (autonomous driving logic)
+- Improving **DSA & problem-solving skills**
+- Deploying projects using **Netlify / Cloudflare Pages**
 ---
 ### 💡 Dev Quote  
 <p align="center">
