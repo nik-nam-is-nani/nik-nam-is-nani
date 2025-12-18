@@ -57,7 +57,7 @@
 
 ### 📂 My Work  
 - 🌐 Portfolio → [Click Here](https://nikshith-po.netlify.app/)  
-- 📄 Resume → [View Resume](https://drive.google.com/file/d/16Ue-lSIuYSxLK9TVoPt8-sYKz1FtFc1-/view?usp=drivesdk)  
+- 📄 Resume → [View Resume](https://drive.google.com/file/d/1AAgg-m9unc9Euyu8LtNERe7kJ8d4HHUM/view?usp=sharing)  
 - 📬 Contact → [Email Me](mailto:nikshithkyatherigi2005@gmail.com)  
 
 ---
