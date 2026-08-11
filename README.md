@@ -42,12 +42,12 @@
 ║   ◆  IDENTITY                                                                ║
 ║                                                                              ║
 ║   Name        →  Nikshith K.                                                 ║
-║   Role        →  AI/ML Engineer  ·  Multi-Agent RL Builder  ·  LLM Dev     ║
+║   Role        →  AI/ML Engineer  ·  Multi-Agent RL Builder  ·  LLM Dev       ║
 ║   Institute   →  G. Pullaiah College of Engineering & Technology             ║
-║                  4th Year CSE  ·  Kurnool, Andhra Pradesh  ·  2023–2027     ║
-║   Domains     →  Reinforcement Learning  ·  LLM Fine-tuning  ·  Full-Stack  ║
-║   Status      →  Open to Internships  ·  June–August 2026                   ║
-║   Target      →  GenAI / AI-ML / Full-Stack AI Roles                        ║
+║                  4th Year CSE  ·  Kurnool, Andhra Pradesh  ·  2023–2027      ║
+║   Domains     →  Reinforcement Learning  ·  LLM Fine-tuning  ·  Full-Stack   ║
+║   Status      →  Open to Internships  ·  June–August 2026                    ║
+║   Target      →  GenAI / AI-ML / Full-Stack AI Roles                         ║
 ║                                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
@@ -63,14 +63,14 @@
 ```
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║                                                                              ║
-║   🏆  META PYTORCH × SCALER OPENENV HACKATHON                               ║
+║   🏆  META PYTORCH × SCALER OPENENV HACKATHON                                ║
 ║                                                                              ║
-║       Grand Finalist  ·  $30,000 Prize Pool  ·  Bangalore, April 2025       ║
+║       Grand Finalist  ·  $30,000 Prize Pool  ·  Bangalore, April 2025        ║
 ║       Problem #15: Live Incident Command Agent                               ║
-║       Presented live to Meta engineers  ·  Multi-Agent RL system demo       ║
+║       Presented live to Meta engineers  ·  Multi-Agent RL system demo        ║
 ║                                                                              ║
 ║   🏅  ANVIL HACKATHON — Scaler School of Technology                         ║
-║       Grand Finale Shortlisted  ·  May 2025  ·  Bangalore                   ║
+║       Grand Finale Shortlisted  ·  May 2025  ·  Bangalore                    ║
 ║                                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
